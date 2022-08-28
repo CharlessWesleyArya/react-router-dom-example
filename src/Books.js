@@ -1,5 +1,9 @@
 import React from "react";
 
 export const Books = () => {
-  return <div>Books</div>;
+  return (
+    <div>
+      <h1>Books</h1>
+    </div>
+  );
 };
